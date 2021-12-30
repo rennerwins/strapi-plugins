@@ -15,7 +15,8 @@
     "develop": "strapi develop",
     "start": "strapi start",
     "build": "strapi build",
-    "strapi": "strapi"
+    "strapi": "strapi",
+    "dev": "strapi develop --watch-admin"
   },
   "devDependencies": {},
   "author": {
